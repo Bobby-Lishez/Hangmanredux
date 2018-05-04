@@ -1,0 +1,23 @@
+{
+  "name": "Hangmanredux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bobby-Lishez/Hangmanredux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bobby-Lishez/Hangmanredux/issues"
+  },
+  "homepage": "https://github.com/Bobby-Lishez/Hangmanredux#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0"
+  }
+}
