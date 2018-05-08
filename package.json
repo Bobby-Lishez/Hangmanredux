@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Bobby-Lishez/Hangmanredux#readme",
   "dependencies": {
     "inquirer": "^5.2.0"
+  },
+  "engine":{
+  "node": "8.9.4"
   }
 }
